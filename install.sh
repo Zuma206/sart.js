@@ -13,3 +13,7 @@ for DEPENDANCY in "${DEPENDANCIES[@]}"; do
     exit 1
   fi
 done;
+
+# Reset library directory
+rm -rf libs
+mkdir libs

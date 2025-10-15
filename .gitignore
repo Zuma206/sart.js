@@ -56,3 +56,6 @@ dkms.conf
 
 # Build output
 sart
+
+# Libraries directory
+libs
